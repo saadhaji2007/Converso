@@ -40,10 +40,13 @@ git clone https://github.com/your-username/converso.git
 cd converso
 npm install
 npm run dev
+```
 
 2. **Install Dependencies**
 ```bash
 npm install
+
+```
 
 3. ** Create Environment Variables **
 Create a .env.local file in the root and add:
@@ -52,16 +55,20 @@ NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_key
 CLERK_SECRET_KEY=your_clerk_secret
 NEXT_PUBLIC_VAPI_API_KEY=your_vapi_key
 
+```
+
 4. **Run the Development Server**
 ```bash
 npm run dev
+
+```
 
  - Open your browser and visit http://localhost:3000.
 
 
 ---
 
-##Contributing
+## Contributing
 We welcome contributions to make Converso even better! 💙
 
 Steps
