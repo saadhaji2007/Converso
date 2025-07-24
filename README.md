@@ -1,6 +1,6 @@
 # Converso 🤖💬
 
-![Converso Logo](../my-app/public/images/logo.svg) <!-- Update with your actual logo path -->
+![Converso Logo](public/images/logo.svg) <!-- Update with your actual logo path -->
 
 
 Converso is a real-time AI-powered chat platform designed to simulate dynamic learning sessions, tutoring, or assistance through intelligent conversations. Built using **Next.js**, **Clerk Auth**, and **Vapi**, this project delivers a smooth, voice-enabled, and interactive chat experience.
