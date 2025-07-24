@@ -78,23 +78,26 @@ Steps
 
 2. **Clone Your Fork**
 
-bash
+```bash
 git clone https://github.com/<your-username>/converso.git
+```
 
 3. **Create a Feature Branch**
-bash
+```bash
 git checkout -b feature/your-feature-name
+```
 
 4. **Make Changes**
    - Write clean, documented code.
    - Test your changes locally.
 
 5. **Commit and Push**
-bash
+```bash
 git add .
 git commit -m "Add your feature"
 git push origin feature/your-feature-name
 Open a Pull Request
+```
 
 6. **Submit a Pull Request**
    - Go to the original repository and create a pull request from your branch.
